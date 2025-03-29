@@ -1,4 +1,4 @@
-telebot
-requests
-python-dotenv
-flask  # (Optional, for webhooks)
+pyTelegramBotAPI==4.12.0
+requests==2.31.0
+flask==2.3.2  # (Only needed for webhooks)
+python-dotenv==1.0.0
