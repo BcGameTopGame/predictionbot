@@ -5,7 +5,7 @@ import json
 import time
 import sys
 
-BOT_TOKEN = "7896799486:AAHWNk7UERiEfuIjnc2yn7_tTOvHR3IfIoM"
+BOT_TOKEN = "6497538294:AAEBFPLacH1r5L8HfIkseDNIDqu24lKqFls"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Placeholder for TronScan API (simulated)
